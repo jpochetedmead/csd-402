@@ -1,2 +1,6 @@
-# csd-402
-CSD 402 - Java for Programmers
+# CSD 402 - Java for Programmers
+
+## Contributors
+
+- Instructor: David Ostrowski
+- Student: Julio Pochet
