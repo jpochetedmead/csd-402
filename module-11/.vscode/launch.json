@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run PochetVBoxExample",
+      "request": "launch",
+      "mainClass": "PochetVBoxExample",
+      "vmArgs": "--module-path /Users/jrpochetedmead202/Documents/javafx-sdk-24.0.1/lib --add-modules javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "Run PochetGridPaneExample",
+      "request": "launch",
+      "mainClass": "PochetGridPaneExample",
+      "vmArgs": "--module-path /Users/jrpochetedmead202/Documents/javafx-sdk-24.0.1/lib --add-modules javafx.controls"
+    }
+  ]
+}
